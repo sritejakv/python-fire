@@ -101,3 +101,6 @@ ENV/
 
 # Type-checking
 .pytype/
+virEnv/
+dotFiles/
+*.png
